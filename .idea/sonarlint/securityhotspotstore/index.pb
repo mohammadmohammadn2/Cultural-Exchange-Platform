@@ -15,3 +15,5 @@ R
 "tests/node-synchronization.test.ts,1/4/14e200a2eb4c72002d576ee197c62186b0f93772
 R
 "contracts/quantum-channel-nft.clar,3/5/3522bbb063d382955ab3ef01397ba9fbd3e30fae
+Q
+!tests/quantum-channel-nft.test.ts,7/4/74a616b20ceca6eda5bb5d32edd38a1424f549b1
