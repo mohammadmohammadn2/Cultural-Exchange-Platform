@@ -11,3 +11,7 @@ L
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 S
 #contracts/node-synchronization.clar,4/2/42f05d3b75e27bac738c5cb6761ec52589b303b5
+R
+"tests/node-synchronization.test.ts,1/4/14e200a2eb4c72002d576ee197c62186b0f93772
+R
+"contracts/quantum-channel-nft.clar,3/5/3522bbb063d382955ab3ef01397ba9fbd3e30fae
