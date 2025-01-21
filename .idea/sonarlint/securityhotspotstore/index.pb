@@ -9,3 +9,5 @@ Y
 )contracts/cultural-artifact-exchange.clar,a/1/a16c7278d30991ce8e0db9ba2f4dd79b24fd3844
 X
 (tests/cultural-artifact-exchange.test.ts,3/3/3339395b435104aa51f58622157117a125e30e42
+T
+$deployments/default.simnet-plan.yaml,6/9/69a1a25a878ebb83f71a85e268e7aeee4705af03
