@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.cultural-artifact-exchange]
+path = 'contracts/cultural-artifact-exchange.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.diplomatic-agreements]
 path = 'contracts/diplomatic-agreements.clar'
 clarity_version = 2
